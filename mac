@@ -24,4 +24,4 @@ echo "Installing RVM (Ruby Version Manager) ..."
 [[ -s '/Users/`whoami`/.rvm/scripts/rvm' ]] && source '/Users/`whoami`/.rvm/scripts/rvm'" >> ~/.zshrc
   source ~/.zshrc
 
-echo "Next run this in a separate tab: bash < <(curl -s https://raw.github.com/thoughtbot/laptop/master/ruby) "
+echo "Next run this in a separate tab: bash < <(curl -s https://raw.github.com/crakalakin/laptop/master/ruby) "
